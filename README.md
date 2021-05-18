@@ -6,7 +6,7 @@ I am in the final stage of a full-stack web development boot camp. Through diffe
 
 I am eager to learn and start my professional career as a developer. As a hotelier by profession, communication, warmth, commitment, and teamwork are key in my personal brand :sunny:.
 
-If you consider attitude and willingness to learn as an important asset for you, and you think my profile fits your needs, I would be happy to be contacted. I leave my mail here in case you need it (daniela.cayuela.tovar@gmail.com) and hope to hear from you soon!
+If you consider attitude and willingness to learn as an important asset for you, and you think my profile fits your needs, I would be happy to be contacted. I to hear from you soon!
 
 🌱 Knowledge in:
 
