@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello! as you have already seen in my profile, my name is Daniela :smiley: I decided to get involved in the tech world because I realized that not being part of it is not an option. Moreover, not in a world where change is the only constant.
+As you have already seen in my profile, my name is Daniela :smiley: I decided to get involved in the tech world because I realized that not being part of it is not an option. Moreover, not in a world where change is the only constant.
 
 I am in the final stage of a full-stack web development boot camp. Through different projects, I have learned and implemented several technologies such as JavaScript, ReactJs, ReduxJs, HTML, CSS, NodeJs, Express, PostgreSQL, Sequelize ORM, among others :computer:.
 
