@@ -1,10 +1,12 @@
+![image](https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif)
+
 ### Hi there 👋
 
 As you have already seen in my profile, my name is Daniela :smiley: I decided to get involved in the tech world because I realized that not being part of it is not an option. Moreover, not in a world where change is the only constant.
 
-I am in the final stage of a full-stack web development boot camp. Through different projects, I have learned and implemented several technologies such as JavaScript, ReactJs, ReduxJs, HTML, CSS, NodeJs, Express, PostgreSQL, Sequelize ORM, among others :computer:.
+I am in the final stage of a full-stack web development boot camp. Through different projects, I have learned and implemented several technologies such as JavaScript, ReactJs, ReduxJs, HTML, CSS, NodeJs, Express, PostgreSQL, Sequelize ORM, among others :computer:
 
-I am eager to learn and start my professional career as a developer. As a hotelier by profession, communication, warmth, commitment, and teamwork are key in my personal brand :sunny:.
+I am eager to learn and start my professional career as a developer. As a hotelier by profession, communication, warmth, commitment, and teamwork are key in my personal brand :sunny:
 
 If you consider attitude and willingness to learn as an important asset for you, and you think my profile fits your needs, I would be happy to be contacted. I to hear from you soon!
 
