@@ -20,6 +20,13 @@ If you consider attitude and willingness to learn as an important asset for you,
 ![image](https://user-images.githubusercontent.com/75386133/118583062-07c19980-b75a-11eb-94e7-29972a814723.png)
 ![image](https://user-images.githubusercontent.com/75386133/118583077-0f813e00-b75a-11eb-829e-f890a7937198.png)
 
+:earth_americas:Languages:
+
+Spanish(Native)
+English(C1)
+French(B1)
+
+
 📫 How to reach me: daniela.cayuela.tovar@gmail.com
 
 
