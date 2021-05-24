@@ -27,6 +27,11 @@ English(C1)
 French(B1)
 
 
+:eyes:Projects deployed:
+
+E-commerce in process(teamwork): eshirt.vercel.app
+
+
 📫 How to reach me: daniela.cayuela.tovar@gmail.com
 
 
