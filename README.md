@@ -29,7 +29,9 @@ French(B1)
 
 :eyes:Projects deployed:
 
-E-commerce in process(teamwork): https://eshirt.vercel.app/
+E-shirt: https://eshirt.vercel.app/
+WeatherApp: https://weather-eight-alpha.vercel.app/about
+
 
 
 📫 How to reach me: daniela.cayuela.tovar@gmail.com
