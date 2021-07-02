@@ -29,9 +29,9 @@ French(B1)
 
 :eyes:Projects deployed:
 
-Amazon-clone in process: https://clone-9f632.web.app/
-E-shirt: https://eshirt.vercel.app/
-WeatherApp: https://weather-eight-alpha.vercel.app/about
+-Amazon-clone in process: https://clone-9f632.web.app/
+-E-shirt: https://eshirt.vercel.app/
+-WeatherApp: https://weather-eight-alpha.vercel.app/about
 
 
 
